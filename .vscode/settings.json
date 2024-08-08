@@ -14,5 +14,6 @@
   },
   "isort.args": ["--profile", "black"],
 "editor.defaultFormatter": "mikoz.black-py",
-"liveServer.settings.port": 5501
+"liveServer.settings.port": 5501,
+"python.analysis.autoImportCompletions": true
 }
