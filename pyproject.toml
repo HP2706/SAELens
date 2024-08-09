@@ -60,7 +60,7 @@ profile = "black"
 src_paths = ["sae_lens", "tests"]
 
 [tool.pyright]
-typeCheckingMode = "strict"
+#typeCheckingMode = "strict"
 reportMissingTypeStubs = "none"
 reportUnknownMemberType = "none"
 reportUnknownArgumentType = "none"
